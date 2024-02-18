@@ -1,0 +1,1 @@
+var g=(u,a,s)=>{"use strict";s.d(a,{Z:()=>n});var e=s(39834);let d=async()=>(await e.Z.get("/api/address/user")).data,r=async()=>(await e.Z.get("/api/address/address-ids")).data,i=async t=>(await e.Z.get("/api/address/user/1",{params:{id:t}})).data,n={getAddressList:d,getIds:r,getAddress:i}};export{g as __chunk_43609};

@@ -1,0 +1,1 @@
+var u=(n,o,e)=>{"use strict";e.d(o,{ZP:()=>c});var t=e(92005);let r=(0,t.D)(String.raw`/home/runner/work/ecommerce-store/ecommerce-store/src/components/layout/DashboardPageHeader.tsx`),{__esModule:a,$$typeof:m}=r,s=r.default,c=s};export{u as __chunk_57715};
