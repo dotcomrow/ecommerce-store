@@ -1,0 +1,1 @@
+var i=(c,o,e)=>{"use strict";e.d(o,{ZP:()=>s});var t=e(92005);let r=(0,t.D)(String.raw`/home/runner/work/ecommerce-store/ecommerce-store/src/components/hidden/index.tsx`),{__esModule:d,$$typeof:m}=r,n=r.default,s=n};export{i as __chunk_1383};
